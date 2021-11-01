@@ -5,7 +5,7 @@ The question:
 ![questionlotta_numbers](https://user-images.githubusercontent.com/37800371/139573461-33a0257e-96b4-436f-97ff-8c8ea442e172.png)
 
 
-Here is the link to the txt file that is provided
+Here is the link to the txt file provided
 https://2021.killerqueenctf.org/Public/lotta_numbers.txt
 ![rsa1](https://user-images.githubusercontent.com/37800371/139573471-693cb2fb-13b6-4343-b16e-e3b2a37fcff3.png)
 
