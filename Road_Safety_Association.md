@@ -13,10 +13,10 @@ Using e=65537 (or higher) in RSA is an extra precaution against a variety of att
 
 I was able to know they were encrypted through RSA algorithm.
 
-I did not want to waste my computing power, so I have used the following old looking website.
+Without having to waste my computing power, I used the following website. pretty good for majority of crypto questions
 https://www.dcode.fr/tools-list#cryptography
 
-put in the integer and factors
+
 ![inputdp](https://user-images.githubusercontent.com/37800371/139573620-61060491-6661-4e3e-ae42-67e3b52d44b6.png)
 
 recieved the following output(flag)
