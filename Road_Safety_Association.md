@@ -19,7 +19,7 @@ https://www.dcode.fr/tools-list#cryptography
 
 
 ![inputdp](https://user-images.githubusercontent.com/37800371/139573620-61060491-6661-4e3e-ae42-67e3b52d44b6.png)
-
-\ and I recieved the following output(flag)\
+\
+and I recieved the following output(flag)\
 ![output](https://user-images.githubusercontent.com/37800371/139573623-bf159237-290f-40c9-bc9c-2d7921888acb.png)
 
